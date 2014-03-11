@@ -1,0 +1,2 @@
+http://en.flossmanuals.net/ogg-theora/encoding/ffmpeg2theora/
+ffmpeg2theora my_source_video.mp4 -o my_theora_video.ogv 
